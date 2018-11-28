@@ -94,10 +94,10 @@ Ovulation triggers a progesterone spike which increases basal body temperature. 
 
 ### *Reliable*
 -[Basal body temperature](/bbt/) (BBT): 
-This week is especially important to properly check your BBT. During week two, your BBT will spike the morning after ovulation and stay high for at least three days. One day of spike temp is not enough to show ovulation, a cycle with less than three days of high bbt is likely anovulatory. One data point is not enough, forest for the trees remember!
+This week is especially important to properly check your BBT. During week two, your BBT will spike the morning after ovulation and stay high for at least three days. One day of high temps is not enough to show ovulation, a cycle with less than three days of high bbt is likely anovulatory. One data point is not enough, forest for the trees remember!
 
 -Cervical mucous/discharge: 
-This week is especially important to check your cervical mucus.The beginning of the week your mucus should be sticky and thick, getting thicker as the week progresses. A day or two before ovulation, your mucus should become the consistency of egg whites. This is the best predictor of when you are most fertile. You should have sex when you find egg white cervical mucus.
+This week is especially important to check your cervical mucus.The beginning of the week your mucus should be sticky and thick, getting thicker as the week progresses. A day or two before ovulation, your mucus should become the consistency of egg whites. This is the best predictor of when you are most fertile. The day you have EWCM is when your vagina and cervix are best able to host sperm. Sex is most likely to end in a baby at this time.
 
 -Ovulation Predictor Kit (OPK): 
 This week you should check for a spike in LH on an OPK stick every morning. The test line should become darker as you get closer to ovulation with it becoming darker than the control line 24-48 hours before ovulation. 
@@ -110,7 +110,7 @@ Your cervix should begin moving towards its fertile position this week. A fertil
 ### *Without much evidence*
 
 -Ferning: 
-Ferning should become more pronounced as you get closer to ovulation. When ferning becomes full and long, this is an indicator that you are in your fertile window. Ferning is not a reliable indicator of fertility and should not be used alone to predi
+Ferning should become more pronounced as you get closer to ovulation. When ferning becomes full and long, this is an indicator that you are in your fertile window. Ferning is not a reliable indicator of fertility and should not be used alone to predict fertility.
 
 ***
 ***
@@ -123,7 +123,7 @@ Your egg travels down the fallopian tube this week.
 
 ## The quick and dirty:
 
-Your egg has been released from your ovary and travels down the fallopian tube. You may feel warm this week. 
+Your egg has been released from your ovary and travels down the fallopian tube. You may feel warm this week. The luteal phase should last between 12 and 16 days, and should be consistent in length. The follicular phase is affected by many factors, but the luteal phase should not be.
 
 ***
 
@@ -211,7 +211,7 @@ If your egg was fertilized it will begin producing hCG this week. The hCG produc
 
 -Ferning: For the first three months, or if your cycle does not have an obvious pattern, you should check your ferning patterns this week. During week four ferning should not be present. There can be an estrogen spike just before the beginning of the next cycle which would cause a second ferning event. 
 
-**NOTE** The estrogen spike at the end of the cycle can also cause a second positive on an OPK, this (and expense) is why we do not suggest testing with OPKs through the entire cycle. **
+**NOTE** The estrogen spike at the end of the cycle can also cause a second positive on an OPK, this (and cost) is why we do not suggest testing with OPKs through the entire cycle. **
 
 ***
 ***
