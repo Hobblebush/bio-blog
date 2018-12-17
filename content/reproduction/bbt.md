@@ -23,7 +23,7 @@ Reliability: *High*
 
 ---
 
-Your basal body temperature (BBT) is your lowest body temperature of the day. Taking your BBT is one of the most studied and reliable methods for predicting your cycle and your fertile days. It is a useful monitoring method because **in most women** the spike in progesterone released when the egg is released causes a spike in temperature until progesterone levels drop.
+Your basal body temperature (BBT) is your lowest body temperature of the day. Taking your BBT is one of the most studied and reliable methods for predicting your cycle and your fertile days. It is a useful monitoring method because **in most people** the spike in progesterone released when the egg is released causes a spike in temperature until progesterone levels drop.
 
 ---
 
