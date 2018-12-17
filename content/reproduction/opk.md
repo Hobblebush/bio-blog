@@ -43,7 +43,7 @@ One of the drawbacks of an OPK is that it only gives you about 24 hours notice b
 
 ### Examples:
 
-The phot below shows an ideal OPK progression. Yours may or may not look like this, but the important thing to take away is that the bottom test is the positive test. This person likely ovulated 24-36 hours after they took that test.
+The photo below shows an ideal OPK progression. Yours may or may not look like this, but the important thing to take away is that the bottom test is the positive test. This person likely ovulated 24-36 hours after they took that test.
 
 ![](/img/main/sticks.jpg)
 
