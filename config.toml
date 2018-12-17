@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "https://www.basementbio.com/"
 languageCode = "en-us"
 title = "Bio in the Basement"
 theme = "hugo-future-imperfect"
@@ -173,7 +173,7 @@ canonifyURLs = true
   xing             = ""
   slideshare       = ""
   # Social Networks
-  facebook         = "knowyourcycles"
+  facebook         = "basementbio"
   googleplus       = ""
   reddit           = ""
   quora            = ""
