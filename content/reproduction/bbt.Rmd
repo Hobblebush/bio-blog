@@ -1,16 +1,16 @@
-+++
-author = "Know Your Cycle"
-categories = ["Cycle Tracking"]
-date = "2018-08-13"
-description = "Taking your basal body temperature every morning can be a very reliable method for tracking ovulation."
-featured = ""
-featuredalt = ""
-featuredpath = ""
-linktitle = ""
-title = "Spotlight: Basal Body Temperature"
-type = "post"
+---
+author: "Know Your Cycle"
+categories: ["Cycle Tracking"]
+date: "2018-08-13"
+description: "Taking your basal body temperature every morning can be a very reliable method for tracking ovulation."
+featured: ""
+featuredalt: ""
+featuredpath: ""
+linktitle: ""
+title: "Spotlight: Basal Body Temperature"
+type: "post"
+---
 
-+++
 
 # Basal Body Temperature
 

@@ -1,16 +1,15 @@
-+++
-author = "Know Your Cycle"
-categories = ["Cycle Tracking"]
-date = "2018-12-17"
-description = ""
-featured = ""
-featuredalt = ""
-featuredpath = ""
-linktitle = ""
-title = "Spotlight: Ovulation Predictor Kits"
-type = "post"
-
-+++
+---
+author: "Know Your Cycle"
+categories: ["Cycle Tracking"]
+date: "2018-12-17"
+description: ""
+featured: ""
+featuredalt: ""
+featuredpath: ""
+linktitle: ""
+title: "Spotlight: Ovulation Predictor Kits"
+type: "post"
+---
 
 # Ovulation Predictor Kit (OPK)
 
