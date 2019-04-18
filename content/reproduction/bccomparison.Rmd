@@ -1,16 +1,15 @@
-+++
-author = "Know Your Cycle"
-categories = ["Birth Control"]
-date = "2018-08-14"
-description = "A comparison of cost, ease of use, side effects, and more of different types of birth control."
-featured = ""
-featuredalt = ""
-featuredpath = ""
-linktitle = ""
-title = "Birth Control Comparison"
-type = "post"
-
-+++
+---
+author: "Know Your Cycle"
+categories: ["Birth Control"]
+date: "2018-08-14"
+description: "A comparison of cost, ease of use, side effects, and more of different types of birth control."
+featured: ""
+featuredalt: ""
+featuredpath: ""
+linktitle: ""
+title: "Birth Control Comparison"
+type: "post"
+---
 
 # **Comparison of Birth Control Methods***
 

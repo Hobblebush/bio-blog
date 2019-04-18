@@ -1,16 +1,15 @@
-+++
-author = "Know Your Cycle"
-categories = ["Cycle Tracking"]
-date = "2018-08-15"
-description = ""
-featured = ""
-featuredalt = ""
-featuredpath = ""
-linktitle = ""
-title = "Your Cycle by Week"
-type = "post"
-
-+++
+---
+author: "Know Your Cycle"
+categories: ["Cycle Tracking"]
+date: "2018-08-15"
+description: ""
+featured: ""
+featuredalt: ""
+featuredpath: ""
+linktitle: ""
+title: "Your Cycle by Week"
+type: "post"
+---
 
 # Week One: Menstrual Phase   
 
