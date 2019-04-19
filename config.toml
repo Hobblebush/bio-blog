@@ -10,6 +10,8 @@ pluralizeListTitles = false
 # Set the followings to true as part of your site SEO
 enableRobotsTXT = true
 canonifyURLs = true
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
+	
 
 [params]
   # Sets the meta tag description
@@ -47,8 +49,8 @@ canonifyURLs = true
   socialShareGoogleplus = false
   socialShareFacebook  = true
   socialShareReddit    = true
-  socialShareLinkedin  = true
-  socialShareStumbleupon = true
+  socialShareLinkedin  = false
+  socialShareStumbleupon = false
   socialSharePinterest = true
   socialShareEmail     = true
 
@@ -87,11 +89,11 @@ canonifyURLs = true
   # These are optional params related to the sidebar. They are recommended, but not
   # required for proper functionality. HTML is supported within the params.
 [params.intro]
-  header    = "Bio in the Basement"
+  header    = "Basement Bio"
 
   paragraph = "Experiments from the lab under the stairs."
 
-  about     = "Our mission is to help people with internal reproductive organs to know their bodies. Noticing differences in your menstrual cycle can help you catch health and fertility problems early."
+  about     = "Knowledge is for the masses! Enjoy easy to digest biology and fertility information."
 
   # This appears at the top of the sidebar above params.intro.header.
   # A width of less than 100px is recommended from a design perspective.

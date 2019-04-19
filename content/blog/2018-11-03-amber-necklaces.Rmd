@@ -1,9 +1,15 @@
 ---
-title: "Amber Teething Necklaces"
 author: "Kristina Nickerson"
-date: 2018-11-03
+categories: ["Biology"]
+date: "2018-09-27"
+description: "Snake oil? Yeah, snake oil."
+featured: ""
+featuredalt: ""
+featuredpath: ""
+linktitle: ""
+title: "Testing Amber Teething Necklaces"
+type: "post"
 ---
-###Amber Teething Necklaces
 
 I've been hearing a lot lately about amber teething necklaces, especially in mom groups on Facebook. I am extremely skeptical of these necklaces, as I am anything that makes money off of parents desperate to keep their children from suffering. So I decided to comb through the internet and collect some information. Once I did that, I realized there were some important and simple tests missing that I could do at home.
 
@@ -13,19 +19,22 @@ I don't have a chemistry set-up in the dungeon, so I had to look up the succinic
 
 The easiest claim to test at home was the claim that oil is released from the necklaces with body heat. To test this, I purchased two different certified authentic Baltic amber teething necklaces. I purchased the Mama Natural brand that was linked to from many of the supporting websites I checked out, and I purchased a Powell's Owls brand necklace that was suggested by Amazon. The Mama Natural necklace claimed and appeared to be raw amber, while the Powell's Owls necklace appeared to be polished amber. Both necklaces came with certificates that they were made from authentic Baltic amber.
 
-![The necklaces that were tested.](/post/2018-11-03-amber-necklaces-files/necklaces02.JPG)
+![The necklaces that were tested.](/img/main/2018-11-03-amber-necklaces-files/necklaces02.JPG)
 
-![The certificates of authenticity that were packaged with the necklaces.](/post/2018-11-03-amber-necklaces-files/certificates.JPG)
+![The certificates of authenticity that were packaged with the necklaces.](/img/main/2018-11-03-amber-necklaces-files/certificates.JPG)
 
 If the amber releases oil due to body heat, then it should release oil in an incubator at 37C. Cue the janky incubator in the basement. I placed each necklace on two pieces of rice paper on a non-absorbent surface. If oil is released, then the rice paper will absorb it and it will show like when you blot your face.
 
-![Necklaces on rice paper before going into the incubator.](/post/2018-11-03-amber-necklaces-files/onrice.JPG)
+![Necklaces on rice paper before going into the incubator.](/img/main/2018-11-03-amber-necklaces-files/onrice.JPG)
+
 
 I placed the plates with rice paper and necklaces in the incubator at 37C for three days. I checked intermittently, usually three times a day, to make sure there wasn't oil being absorbed and then disappearing. At the end of the three days there had been no indication that any oil had been released from either necklace.
 
-![Mama Natural rice paper after three days in the incubator.](/post/2018-11-03-amber-necklaces-files/mnrice.JPG)
 
-![Powell's Owls rice paper after three days in the incubator.](/post/2018-11-03-amber-necklaces-files/porice.JPG)
+![Mama Natural rice paper after three days in the incubator.](/img/main/2018-11-03-amber-necklaces-files/mnrice.JPG)
+
+![Powell's Owls rice paper after three days in the incubator.](/img/main/2018-11-03-amber-necklaces-files/porice.JPG)
+
 
 I'm pretty confident in saying that the amber on these necklaces did not release oil at body temperature. 
 

@@ -1,0 +1,62 @@
+---
+author: "Kristina Nickerson"
+categories: ["Biology"]
+date: "2018-12-23"
+description: "A simplified but functional description of the immune system."
+featured: ""
+featuredalt: ""
+featuredpath: ""
+linktitle: ""
+title: "Immune Response Quick Course"
+type: "post"
+---
+
+I'm going to do something a little different, today. I'm going to explain some things to you without performing my own experiment. I definitely don't have a sophisticated enough lab (or enough money to throw around) to start doing immune assays in my basement, but all of what I'm telling you has been tested and seen and shown to be true so obviously and so many times that even the current federal government believes the scientists saying it. So let's talk about the immune system. I am going to discuss vaccines a bit, too. 
+
+Let's start with some vocabulary. 
+
+* The **immune system** is any organ, cell, or mechanism that participates in the control of invading antigens. 
+
+* **Immunity** is a resistance to a specific antigen.
+
+* **Immunization** is the process by which a person becomes immune.
+
+* A **vaccine** is a substance used to stimulate an immune response in order to prevent later illness by a specific antigen, usually a pathogen.
+
+* **Innoculation** is the process of giving a vaccination.
+
+* An **antigen** is any foreign substance that induces an immune response. It can be a protein, bacterium, virus, parasite, or any foreign substance.
+
+* An **antibody** is a protein created by cells to counteract a specific antigen. 
+
+* A **pathogen** is an antigen that causes disease.
+
+Now that that's out of the way, there are two specific immune responses to invasion: the innate response and the adaptive response. The innate response is your body's immediate response to invasion. It involves barriers, flushing, and microbiome protection. The skin and mucous membranes act as barriers against invasion. Mucus, coughing/sneezing, vomiting/diarrhea, and fluid expulsion (blood from cuts, tears, saliva, urine, etc.) help to remove pathogens from the body. Finally, the microbiome works as a check for opportunistic pathogens. Innate response is similar to having a pack of guard geese. It attacks anything that comes in with no differentiation in tactic and slows the invaders down, but isn't terribly efficient at killing most things. This isn't a perfect metaphor, but it'll do. Some of the other ways the body responds to invading antigens include fever and inflammation. The higher temperature of a fever can inhibit growth of some microorganisms and stimulates immune cells. Inflammation allows immune cells to travel through tissues. These along with the mucus production of the innate response are what cause symptoms of illness. You cough, have a fever, and have sore muscles/throat/sinuses. All of this is what allows your immune system to work, though it totally sucks.
+
+The adaptive response involves immune cells and kicks in once those cells are able to target the invading antigen. There are many different immune cells involved in the adaptive response, but in the interest of easy digestion, I'm going to stick mostly to lymphocytes, B- and T-cells, and won't be talking much about myeloid cells for the most part. I do suggest you check out some deeper information on the immune system because it's pretty freaking cool, though.
+
+So let's follow an invader into the body. It enters through the nose, mouth, eyes, or a cut. Mucus or blood expulsion are not enough to keep all of the microbes from entering the body. Eventually, some of the microbes get engulfed by macrophages as part of the innate immune response. The macrophages, and other antigen-presenting cells, display antigen fragments (usually pieces of proteins found on the cell wall of the invading microbe) on their cell membranes. These fragments are picked up by T-helper cells. These activated T-helper cells then activate B-cells by presenting the antigen to them. The B-cells then produce antibodies to that specific antigen fragment. This antibody can cause pathogens to clump making them easier for phagocytes to target, neutralize toxins, lyse (disintegrate the membrane) pathogenic cells, or just act as a flag for phagocytes and other killer cells. Some T-helper cells turn into cytotoxic, cell killer, cells. These killer T-cells kill our own cells when they recognize the antigen fragment or antibody on them. Other T-helper cells turn into memory cells, which will hold onto the antigen fragment so that it can be recognized and targeted more quickly next time it is encountered.
+
+The other ways the body responds to kill invading microorganisms include fever and inflammation. The higher temperature of a fever can inhibit growth of some microorganisms and stimulates immune cells. Inflammation allows immune cells to travel through tissues. These along with the mucus production of the innate response are what cause symptoms of illness. You cough, have a fever, and have sore muscles/throat/sinuses. All of this is what allows your immune system to work, though it totally sucks.
+
+So here's the important (and super cool) thing about our immune systems. Every time we are exposed to a pathogen it takes less time for the adaptive response to start AND the adaptive response is stronger because of the T-memory cells. This means that each time we get sick with the same antigen, we get better more quickly, sometimes eradicating the invader before it can even make us sick! This works best with pathogens that mutate very slowly, and the length of time the immune system remembers an antigen is different depending on the antigen, but the fact that it we can acquire anti-illness super powers is pretty awesome.
+
+So what does this mean for vaccines? Well, a vaccine contains whole or part of a pathogenic organism. Some contain whole dead cells, some contain deactivated live cells, some contain just fragments of the proteins that an organism produces, and some newer ones only contain fragments of DNA from the organism. In each case, the antigen in the vaccine is introduced to your body and your immune system responds because it is an invading substance. It doesn't matter if it's dead or alive, whole or partial, your immune system will respond. Even if there was nothing, your immune system would still respond to the puncture, at least. This means that your B- and T-cells are exposed to whatever part of the antigen is contained in the vaccine, and your body will make memory cells to remember it. Sometimes you need multiple vaccines in order to build up a high enough number of memory cells since you're not actually getting sick from it. Sometimes the vaccine will be a different strain than what you're exposed to (like is sometimes the case with flu shots). In this case, you will still have some protection because some of the protein fragments between the strains will be the same. That means you'll have at least a small contingent of memory cells primed for the infection, even if it isn't as many as if it was the same strain.
+
+That's most of what I wanted to say, but I do want to hit a few more things:
+
+1. Vaccines are not even correlated with autism, let alone causative.
+2. You're not getting "poison" in your vaccine. They contain ingredients the same structure and in similar amounts as found in one piece of organic fruit.
+3. Not everyone can get vaccinated due to age, allergies, or compromised immune systems. Not everyone will become immune after being vaccinated. Herd immunity is a real, proven phenomenon. So please do get vaccinated, if not for you then for your community.
+
+---
+
+Useful Links:
+
+[How Vaccines Work](https://www.niaid.nih.gov/research/how-vaccines-work)
+
+[Immunizations and Vaccinations](https://www.verywellfamily.com/the-difference-between-immunization-and-vaccination-4140251)
+
+[Innate and Adaptive Immune Systems](https://www.ncbi.nlm.nih.gov/books/NBK279396/)
+
+[The CDC's recommended vaccination schedule](https://www.cdc.gov/vaccines/schedules/hcp/imz/child-adolescent-compliant.html)

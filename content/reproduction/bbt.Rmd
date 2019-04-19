@@ -1,25 +1,24 @@
-+++
-author = "Know Your Cycle"
-categories = ["Cycle Tracking"]
-date = "2018-08-13"
-description = "Taking your basal body temperature every morning can be a very reliable method for tracking ovulation."
-featured = ""
-featuredalt = ""
-featuredpath = ""
-linktitle = ""
-title = "Spotlight: Basal Body Temperature"
-type = "post"
-
-+++
+---
+author: "Kristina Nickerson"
+categories: ["Cycle Tracking"]
+date: "2017-11-30"
+description: "Taking your basal body temperature every morning can be a very reliable method for tracking ovulation."
+featured: ""
+featuredalt: ""
+featuredpath: ""
+linktitle: ""
+title: "Spotlight: Basal Body Temperature"
+type: "post"
+---
 
 # Basal Body Temperature
 
 Reliability: *High*
 
 ### When to monitor:
--From the end of menstruation until ovulation is indicated
 
--Through entire cycle for the first three months or if you plan to use it as a pregnancy/menstruation indicator.
+* From the end of menstruation until ovulation is indicated
+* Through entire cycle for the first three months or if you plan to use it as a pregnancy/menstruation indicator.
 
 ---
 
@@ -47,7 +46,7 @@ After three months of regular cycles, you should have a good idea of which cycle
 
 A biphasic chart indicates ovulation. A triphasic chart also shows ovulation. The charts below show ovulation on cycle day 14. Both a biphasic and triphasic chart can be present when pregnant or when not pregnant, so don't assume pregnancy from a triphasic chart. A chart with no clear temperature shift indicates there MIGHT have been no ovulation.
 
-![](/img/main/bbtcharts.png)
+![Examples of single cycle BBT charts.](/img/main/bbtcharts.png)
 
 ---
 

@@ -1,16 +1,15 @@
-+++
-author = "Know Your Cycle"
-categories = ["Cycle Tracking"]
-date = "2018-08-15"
-description = ""
-featured = ""
-featuredalt = ""
-featuredpath = ""
-linktitle = ""
-title = "Your Cycle by Week"
-type = "post"
-
-+++
+---
+author: "Kristina Nickerson"
+categories: ["Cycle Tracking"]
+date: "2017-12-31"
+description: "A rundown of what happens during a typical menstrual cycle and signs there's a problem."
+featured: ""
+featuredalt: ""
+featuredpath: ""
+linktitle: ""
+title: "Your Cycle: Week by Week"
+type: "post"
+---
 
 # Week One: Menstrual Phase   
 
@@ -71,12 +70,12 @@ Ovulation occurs at the end of this week.
 ***
 
 ## The quick and dirty:
-This is the time when your egg is developing. It should last around 14 days from the start of menstruation, or however long is normal for you. This week is when you want to put in the most effort into sex if you’re trying to get pregnant.
+This is the time when your egg is developing. It should last around 14 days from the start of menstruation, or however long is normal for you. This week is when you want to put in the most effort into getting sperm up there if you’re trying to get pregnant.
 
 ***
 
 ## The science:
-Estrogen increases this week, triggering the endometrium to begin building up. The estrogen spike just before ovulation triggers the production of Luteinizing Hormone (LH) which releases the most mature egg (or eggs) from its follicle on day 14 or whenever is normal for you. Once the egg is released, it will survive for only 12-24 hours. For the best chances of fertilizing the released egg, sperm should be waiting. Sperm need time to shed their protective coating, so you should make sure you’ve had vaginal sex with ejaculation in the three days before ovulation. Doing so at least two of those three days is the best strategy. Some evidence suggests 24-48 hours before ovulation to be the best window for reproductive sex.
+Estrogen increases this week, triggering the endometrium to begin building up. The estrogen spike just before ovulation triggers the production of Luteinizing Hormone (LH) which releases the most mature egg (or eggs) from its follicle on day 14 or whenever is normal for you. Once the egg is released, it will survive for only 12-24 hours. For the best chances of fertilizing the released egg, sperm should be waiting. Sperm need time to shed their protective coating, so you should make sure you have sperm heading in the right direction in the three days before ovulation. Doing so at least two of those three days is the best strategy. Some evidence suggests 24-48 hours before ovulation to be the best window for a successful sperm journey.
 
 Ovulation triggers a progesterone spike which increases basal body temperature. The morning after ovulation, you will have a temperature spike of around 0.5F. 
 
@@ -97,7 +96,7 @@ Ovulation triggers a progesterone spike which increases basal body temperature. 
 This week is especially important to properly check your BBT. During week two, your BBT will spike the morning after ovulation and stay high for at least three days. One day of high temps is not enough to show ovulation, a cycle with less than three days of high bbt is likely anovulatory. One data point is not enough, forest for the trees remember!
 
 -Cervical mucous/discharge: 
-This week is especially important to check your cervical mucus.The beginning of the week your mucus should be sticky and thick, getting thicker as the week progresses. A day or two before ovulation, your mucus should become the consistency of egg whites. This is the best predictor of when you are most fertile. The day you have EWCM is when your vagina and cervix are best able to host sperm. Sex is most likely to end in a baby at this time.
+This week is especially important to check your cervical mucus. The beginning of the week your mucus should be sticky and thick, getting thicker as the week progresses. A day or two before ovulation, your mucus should become the consistency of egg whites. This is the best predictor of when you are most fertile. The day you have EWCM is when your vagina and cervix are best able to host sperm. Sex is most likely to end in a baby at this time.
 
 -Ovulation Predictor Kit (OPK): 
 This week you should check for a spike in LH on an OPK stick every morning. The test line should become darker as you get closer to ovulation with it becoming darker than the control line 24-48 hours before ovulation. 
@@ -105,7 +104,7 @@ This week you should check for a spike in LH on an OPK stick every morning. The 
 ### *Not as accurate*
 
 -Cervix: 
-Your cervix should begin moving towards its fertile position this week. A fertile cervix is typically high, soft, and open.This is another indicator that you are in your fertile window. However, cervical position and feel can be unpredictable and you shouldn’t use this as your only indicator. Nor should you worry if it doesn’t go to the exact fertile position.
+Your cervix should begin moving towards its fertile position this week. A fertile cervix is typically high, soft, and open. This is another indicator that you are in your fertile window. However, cervical position and feel can be unpredictable and you shouldn’t use this as your only indicator. Nor should you worry if it doesn’t go to the exact fertile position.
 
 ### *Without much evidence*
 
@@ -178,7 +177,7 @@ If your egg was not fertilized, your body will not get the signal to keep up the
 
 ## The science:
 
-If your egg did not get fertilized the corpus luteum will die and progesterone and estrogen levels will drop.This will trigger a temperature drop the day before or day of the start of menstruation. The dropping hormone levels can cause mood disruptions, bloating, and cramps this week. The luteal phase ends 14 days after ovulation or whatever is normal for you.
+If your egg did not get fertilized the corpus luteum will die and progesterone and estrogen levels will drop. This will trigger a temperature drop the day before or day of the start of menstruation. It is perfectly normal for your temperature to fluctuate as long as there is an overall pattern, though. The dropping hormone levels can cause mood disruptions, bloating, and cramps this week. The luteal phase ends 14 days after ovulation or whatever is normal for you.
 
 If your egg was fertilized it will begin producing hCG this week. The hCG produced by the fertilized egg will signal the corpus luteum to continue producing progesterone. This will cause a sustained high temperature. The endometrium is not expelled and the egg can implant into it. Levels of hCG will be measurable on early tests (Wondfo, Dollar Tree, and First Response Early Response test for example) approximately two days after implantation. A test may show a first positive between 9 and 12 days after ovulation. Though some women get their first positive outside of that range. 
 
@@ -211,7 +210,7 @@ If your egg was fertilized it will begin producing hCG this week. The hCG produc
 
 -Ferning: For the first three months, or if your cycle does not have an obvious pattern, you should check your ferning patterns this week. During week four ferning should not be present. There can be an estrogen spike just before the beginning of the next cycle which would cause a second ferning event. 
 
-**NOTE** The estrogen spike at the end of the cycle can also cause a second positive on an OPK, this (and cost) is why we do not suggest testing with OPKs through the entire cycle. **
+**NOTE:** The estrogen spike at the end of the cycle can also cause a second positive on an OPK, although sometimes it doesn't, this (and cost) is why we do not suggest testing with OPKs through the entire cycle.
 
 ***
 ***
